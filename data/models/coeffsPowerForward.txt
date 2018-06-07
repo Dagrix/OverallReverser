@@ -1,0 +1,75 @@
+height                  0.6040628409513897
+weight                  0.0
+Open shot mid           0.0
+Contested shot mid      0.0
+Off dribble shot mid    0.0
+Open shot 3pt           0.0
+Contested shot 3pt      0.01866659458741215
+Off dribble shot 3pt    0.014961264459801466
+Shot IQ                 0.02459416615035794
+Free throw              0.02319172220022207
+Offensive consistency   0.06864798738459821
+Shot close              0.06792280849929964
+Standing layup          0.059965806249333696
+Driving layup           0.0
+Standing dunk           0.013102781879595802
+Driving dunk            0.0
+Contact dunk            0.021283643625977112
+Draw foul               0.03454720867935945
+Post control            -0.039646122760734676
+Post hook               0.01954216699051066
+Post fadeaway           0.034783948205158906
+Hands                   0.0
+Ball control            -0.013683664184822515
+Passing accuracy        0.0
+Passing vision          0.0
+Passing IQ              0.030108382326461177
+Speed with ball         0.018547554484260296
+Speed                   0.023969394872586914
+Acceleration            0.0
+Vertical                0.017405463434809202
+Strength                0.03868127070450233
+Stamina                 0.023731320328561192
+Hustle                  -0.013005665213451631
+Overall durability      0.0
+On-ball defense IQ      0.030525120678998305
+Low post defense IQ     0.033782636731310905
+Pick & roll defense IQ  0.02684540332469421
+Help defense IQ         0.024602594312979592
+Lateral quickness       0.0
+Pass perception         0.0
+Reaction time           0.01952732715305863
+Steal                   0.0
+Block                   0.0
+Shot contest            0.0
+Defensive consistency   0.04458244334308854
+Offensive rebound       0.059860272839235146
+Defensive rebound       0.09746184238849298
+Boxout                  0.0
+Potential               0.09196526194438319
+Intangibles             0.06541276102337232
+overall                 0.0
+CONSTANT                -41.6763831036609
+============= Top 20 most important ========================
+1. height (38.0%)
+2. Defensive rebound
+3. Potential
+4. Offensive consistency
+5. Shot close
+6. Intangibles
+7. Standing layup
+8. Offensive rebound
+9. Defensive consistency
+10. Strength
+11. Post fadeaway
+12. Draw foul
+13. Low post defense IQ
+14. On-ball defense IQ
+15. Passing IQ
+16. Pick & roll defense IQ
+17. Help defense IQ
+18. Shot IQ
+19. Speed
+20. Stamina
+============= Useless ========================
+weight, Open shot mid, Contested shot mid, Off dribble shot mid, Open shot 3pt, Driving layup, Driving dunk, Hands, Passing accuracy, Passing vision, Acceleration, Overall durability, Lateral quickness, Pass perception, Steal, Block, Shot contest, Boxout, overall, 
