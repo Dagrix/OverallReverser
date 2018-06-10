@@ -3,7 +3,6 @@ package overallreverser
 import java.io.File
 import java.net.URI
 
-import com.sun.deploy.net.URLEncoder
 import overallreverser.learning.{ClassifierBuilder, TrainingDataBuilder}
 import overallreverser.parsing.TwoKMTCentralPlayerParser
 import overallreverser.players._
